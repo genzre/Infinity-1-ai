@@ -41,4 +41,11 @@ def infinity1_response(user_input): # Core response logic (placeholder for AI or
 
                                                                                                                                 if name == "main": app.run(debug=True)
 
-                                                                                                                                
+                                                                                                                                pkg install git
+                                                                                                                                git clone https://github.com/your-username/infinity-1-ai.git
+                                                                                                                                cd infinity-1-ai
+                                                                                                                                pkg install python
+                                                                                                                                pip install flask
+                                                                                                                                python app.py
+                                                                                                                                http://127.0.0.1:5000
+                                                                                                                                termux-open-url http://127.0.0.1:5000
